@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "252422999242",
+    "firebase_url": "https://static-mediator-169819.firebaseio.com",
+    "project_id": "static-mediator-169819",
+    "storage_bucket": "static-mediator-169819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252422999242:android:1b8f789461271b6c",
+        "android_client_info": {
+          "package_jame": "ali.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252422999242-eb1qm9skaleqgi54tmgmmdsibgrgk65n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbwujGlVUOklWVCJ3ACx0BNT05q3k-VM4"
+        }
+      ],
+      "services": {
+        "ajalytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
